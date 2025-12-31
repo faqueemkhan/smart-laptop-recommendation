@@ -7,7 +7,7 @@ The **Smart Laptop Recommendation System** is a modern web application designed 
 The system uses a structured questionnaire and curated laptop data to provide intelligent, user-focused recommendations.  
 
 ## 🌐 Live Demo
-(Add link after deployment)
+(https://smart-laptop-recommendation.vercel.app/)
 
 This project is built using:
 
